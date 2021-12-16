@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://tajny-mikolaj-expert-2021.github.io/prezent/static/css/main.ce6251e4.chunk.css",
-    "main.js": "https://tajny-mikolaj-expert-2021.github.io/prezent/static/js/main.16db1c3c.chunk.js",
-    "main.js.map": "https://tajny-mikolaj-expert-2021.github.io/prezent/static/js/main.16db1c3c.chunk.js.map",
+    "main.js": "https://tajny-mikolaj-expert-2021.github.io/prezent/static/js/main.333e6c88.chunk.js",
+    "main.js.map": "https://tajny-mikolaj-expert-2021.github.io/prezent/static/js/main.333e6c88.chunk.js.map",
     "runtime-main.js": "https://tajny-mikolaj-expert-2021.github.io/prezent/static/js/runtime-main.329feb85.js",
     "runtime-main.js.map": "https://tajny-mikolaj-expert-2021.github.io/prezent/static/js/runtime-main.329feb85.js.map",
     "static/css/2.f22ce6b0.chunk.css": "https://tajny-mikolaj-expert-2021.github.io/prezent/static/css/2.f22ce6b0.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.f22ce6b0.chunk.css",
     "static/js/2.3bffae8c.chunk.js",
     "static/css/main.ce6251e4.chunk.css",
-    "static/js/main.16db1c3c.chunk.js"
+    "static/js/main.333e6c88.chunk.js"
   ]
 }
